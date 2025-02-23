@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "530904328350",
+    "project_id": "flash-chat-4e484",
+    "storage_bucket": "flash-chat-4e484.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530904328350:android:8e62ad77e35fb3cebdb38f",
+        "android_client_info": {
+          "package_name": "com.example.flashchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_KJCJWLo6sdgDhuEYhrpgcAqeJI-wLbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530904328350:android:65f7284c6810460cbdb38f",
+        "android_client_info": {
+          "package_name": "com.tayyab.flashchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_KJCJWLo6sdgDhuEYhrpgcAqeJI-wLbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
